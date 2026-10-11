@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary / scratch scripts
+scratch/
+*.log
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store

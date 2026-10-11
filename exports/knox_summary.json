@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "area": "Todo Knox County",
+  "bounds": null,
+  "database_file": "c:\\Users\\OALHUAY\\Zomboid\\Workshop\\AutomaticMapper\\exports\\knox_database.sqlite",
+  "size_mb": 23.73,
+  "counts": {
+    "buildings": 9584,
+    "named_streets": 1098,
+    "road_segments": 3439,
+    "highways": 3369,
+    "total_roads": 4467,
+    "water_bodies": 577,
+    "urban_zones": 18393,
+    "wilderness_compacted_zones": 9801
+  }
+}

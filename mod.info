@@ -1,0 +1,7 @@
+name=AutomaticMapper - Knox World Scanner
+poster=poster.png
+id=AutomaticMapper
+description=Automatic Knox Country spatial extractor. Generates compact databases of buildings, rooms, roads, terrain, and zones with stable IDs.
+versionMin=42.0.0
+modversion=1.0.0
+authors=Oscar
